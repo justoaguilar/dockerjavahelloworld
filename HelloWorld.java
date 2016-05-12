@@ -6,6 +6,6 @@ package javahelloworld;
  */
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello Docker!"); // Display the string.
+        System.out.println("Hello Docker Automated Build!"); // Display the string.
     }
 }
